@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template display_value="Basic Auth Demo Configuration">cbdcec63b70333008321e916de11a96c</configuration_template>
+        <connection_type>http_connection</connection_type>
+        <id>x_737542_wish_list.GitHub_Credentials___Desenvigor</id>
+        <multiple_connections>false</multiple_connections>
+        <name>GitHub Credentials - Desenvigor</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-08 13:46:24</sys_created_on>
+        <sys_id>a204c367db300110bab568d35b961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_737542_wish_list.GitHub_Credentials___Desenvigor</sys_name>
+        <sys_package display_value="Wish List" source="x_737542_wish_list">2a42c7e3db300110bab568d35b961914</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">2a42c7e3db300110bab568d35b961914</sys_scope>
+        <sys_update_name>sys_alias_a204c367db300110bab568d35b961938</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-08 13:46:24</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">2a42c7e3db300110bab568d35b961914</application>
+        <file_path/>
+        <instance_id>d57e2bd0dbc423448264f70fbf961991</instance_id>
+        <instance_name>dev70994</instance_name>
+        <name>sys_alias_a204c367db300110bab568d35b961938</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template display_value="Basic Auth Demo Configuration">cbdcec63b70333008321e916de11a96c</configuration_template><connection_type>http_connection</connection_type><id>x_737542_wish_list.GitHub_Credentials___Desenvigor</id><multiple_connections>false</multiple_connections><name>GitHub Credentials - Desenvigor</name><parent/><retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-08 13:46:24</sys_created_on><sys_id>a204c367db300110bab568d35b961938</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_737542_wish_list.GitHub_Credentials___Desenvigor</sys_name><sys_package display_value="Wish List" source="x_737542_wish_list">2a42c7e3db300110bab568d35b961914</sys_package><sys_policy/><sys_scope display_value="Wish List">2a42c7e3db300110bab568d35b961914</sys_scope><sys_update_name>sys_alias_a204c367db300110bab568d35b961938</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-08 13:46:24</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>1991918069</payload_hash>
+        <record_name>x_737542_wish_list.GitHub_Credentials___Desenvigor</record_name>
+        <reverted_from/>
+        <source>6e42c7e3db300110bab568d35b961916</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-08 13:46:24</sys_created_on>
+        <sys_id>55448367db300110bab568d35b961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e39f0b92e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-08 13:46:24</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>9d448367b7300110741c4317f9708f55</update_guid>
+        <update_guid_history>9d448367b7300110741c4317f9708f55:1991918069</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-08 13:46:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>1e28637c18524fcfa2354a5f7e891b91</sys_id>
+        <sys_metadata>a204c367db300110bab568d35b961938</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_737542_wish_list.GitHub_Credentials___Desenvigor</sys_name>
+        <sys_package display_value="Wish List" source="x_737542_wish_list">2a42c7e3db300110bab568d35b961914</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">2a42c7e3db300110bab568d35b961914</sys_scope>
+        <sys_scope_delete display_value="">26c5dc55821c4dd489c862229641ce90</sys_scope_delete>
+        <sys_update_name>sys_alias_a204c367db300110bab568d35b961938</sys_update_name>
+        <sys_update_version display_value="sys_alias_a204c367db300110bab568d35b961938">55448367db300110bab568d35b961956</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-08 13:46:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
